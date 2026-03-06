@@ -106,21 +106,23 @@ These concepts align with industry frameworks and enterprise security practices.
 ## 📂 Repository Structure
 
 
+## Repository Structure
+
 Health-Network-Risk-Management/
-│
-├── Labs-Evidence/
-│ └── Lab documentation and security evidence
-│
-├── Risk-Tables/
-│ └── Risk register and business impact analysis
-│
-├── Reports/
-│ └── Final risk management documentation
-│
-├── Certificates/
-│ └── Cybersecurity training certifications
-│
-└── README.md
+
+├── Labs-Evidence/  
+│   └── Lab documentation and security evidence  
+
+├── Risk-Tables/  
+│   └── Risk register and business impact analysis  
+
+├── Reports/  
+│   └── Final risk management documentation  
+
+├── Certificates/  
+│   └── Cybersecurity training certifications  
+
+└── README.md  
 
 ---
 

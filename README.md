@@ -106,18 +106,13 @@ These concepts align with industry frameworks and enterprise security practices.
 ## 📂 Repository Structure
 
 Health-Network-Risk-Management/
-
-├── Labs-Evidence/  
-│   └── Lab documentation and security evidence  
+ 
 
 ├── Risk-Tables/  
 │   └── Risk register and business impact analysis  
 
 ├── Reports/  
-│   └── Final risk management documentation  
-
-├── Certificates/  
-│   └── Cybersecurity training certifications  
+│   └── Final risk management documentation 
 
 └── README.md  
 
@@ -176,11 +171,3 @@ Utica University
 This project is created for academic and educational purposes to demonstrate cybersecurity risk management concepts and security analysis techniques.
 
 ---
-
-## ⭐ If You Like This Project
-
-If you find this project useful, consider:
-
-✔ Adding it to your portfolio  
-✔ Using it to demonstrate cybersecurity skills  
-✔ Sharing it as part of your professional development

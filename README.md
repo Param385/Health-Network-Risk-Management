@@ -45,16 +45,18 @@ These tools provided practical experience in:
 
 ## 📚 Lab Activities Completed
 
-The following labs were completed as part of this project:
+The following labs were completed as part of this project. Click each link to view the original lab summary:
 
-- Vulnerability identification and exploitation  
-- Compliance review (PCI DSS)  
-- Risk management planning  
-- Risk assessment  
-- IT asset inventory  
-- Technical vulnerability management  
-- Risk mitigation planning  
-- Business impact analysis
+| # | Lab | Summary |
+|---|-----|---------|
+| 1 | Vulnerability Identification | [01-Vulnerability-Identification.md](Lab-Summaries/01-Vulnerability-Identification.md) |
+| 2 | PCI DSS Compliance Review | [02-PCI-DSS-Compliance-Review.md](Lab-Summaries/02-PCI-DSS-Compliance-Review.md) |
+| 3 | Risk Management Planning | [03-Risk-Management-Planning.md](Lab-Summaries/03-Risk-Management-Planning.md) |
+| 4 | Risk Assessment | [04-Risk-Assessment.md](Lab-Summaries/04-Risk-Assessment.md) |
+| 5 | IT Asset Inventory | [05-IT-Asset-Inventory.md](Lab-Summaries/05-IT-Asset-Inventory.md) |
+| 6 | Technical Vulnerability Management | [06-Technical-Vulnerability-Management.md](Lab-Summaries/06-Technical-Vulnerability-Management.md) |
+| 7 | Risk Mitigation Planning | [07-Risk-Mitigation-Planning.md](Lab-Summaries/07-Risk-Mitigation-Planning.md) |
+| 8 | Business Impact Analysis | [08-Business-Impact-Analysis.md](Lab-Summaries/08-Business-Impact-Analysis.md) |
 
 Each lab contributed to building skills in:
 
@@ -103,18 +105,48 @@ These concepts align with industry frameworks and enterprise security practices.
 
 ---
 
+## 🏛 Frameworks Aligned
+
+This project is explicitly aligned to the following industry-recognized cybersecurity and risk management frameworks:
+
+| Framework | Application |
+|-----------|-------------|
+| **NIST SP 800-30 Rev. 1** | Primary risk assessment methodology — threat/vulnerability identification, likelihood and impact scoring, risk prioritization |
+| **NIST Cybersecurity Framework (CSF)** | Organizational security posture mapping across Identify, Protect, Detect, Respond, and Recover functions |
+| **PCI DSS v4.0** | Compliance framework for the HNetPay payment processing environment — 12-requirement compliance gap analysis |
+| **HIPAA Security Rule** | Regulatory baseline for healthcare data protection — risk analysis (§ 164.308), access control (§ 164.312), contingency planning (§ 164.308(a)(7)) |
+| **ISO/IEC 27001:2022** | Information Security Management System (ISMS) framework for sustained risk governance and control selection |
+
+See [docs/Risk-Framework-Methodology.md](docs/Risk-Framework-Methodology.md) for a detailed explanation of how each framework was applied.
+
+---
+
 ## 📂 Repository Structure
 
+```text
 Health-Network-Risk-Management/
- 
-
-├── Risk-Tables/  
-│   └── Risk register and business impact analysis  
-
-├── Reports/  
-│   └── Final risk management documentation 
-
-└── README.md  
+├── README.md
+├── LICENSE
+├── .gitignore
+├── Lab-Summaries/
+│   ├── 01-Vulnerability-Identification.md
+│   ├── 02-PCI-DSS-Compliance-Review.md
+│   ├── 03-Risk-Management-Planning.md
+│   ├── 04-Risk-Assessment.md
+│   ├── 05-IT-Asset-Inventory.md
+│   ├── 06-Technical-Vulnerability-Management.md
+│   ├── 07-Risk-Mitigation-Planning.md
+│   └── 08-Business-Impact-Analysis.md
+├── Risk-Tables/
+│   ├── Risk-Register.md          ← Markdown risk register (viewable on GitHub)
+│   └── RISK Table.xlsx           ← Original risk table
+├── Reports/
+│   └── final report.docx         ← Final risk management report
+├── Screenshots/
+│   └── README.md                 ← Guidance on screenshots to add
+└── docs/
+    └── Risk-Framework-Methodology.md
+```
 
 ---
 
@@ -169,5 +201,7 @@ Utica University
 ## ⚠ Disclaimer
 
 This project is created for academic and educational purposes to demonstrate cybersecurity risk management concepts and security analysis techniques.
+
+Lab exercises were completed using **Jones & Bartlett Learning** courseware. Original lab content is not included in this repository due to copyright restrictions. All reports, analysis, risk tables, and documentation in this repository represent original work by the author based on concepts learned during the course.
 
 ---

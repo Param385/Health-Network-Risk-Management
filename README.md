@@ -183,10 +183,10 @@ These are core competencies for roles such as:
 
 Potential enhancements:
 
-✔ Additional vulnerability assessments  
-✔ Advanced network security analysis  
-✔ Expanded risk mitigation strategies  
-✔ Automation of security documentation
+- [ ] Additional vulnerability assessments  
+- [ ] Advanced network security analysis  
+- [ ] Expanded risk mitigation strategies  
+- [ ] Automation of security documentation
 
 ---
 

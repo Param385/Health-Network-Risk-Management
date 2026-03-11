@@ -24,6 +24,6 @@ Developed a formal risk management plan for the healthcare organization scenario
 - NIST SP 800-30 Rev. 1 — Guide for Conducting Risk Assessments
 - NIST SP 800-39 — Managing Information Security Risk (Organization, Mission, and Information System View)
 - NIST CSF — Identify (ID.RM): Risk Management Strategy
-- ISO/IEC 27001:2022 — Clause 6.1: Actions to address risks and opportunities
+- ISO/IEC 27001:2022 — Clause 6.1: Actions to address risks and opportunities 
 
 > **Note:** Lab exercises were completed using JB Learning courseware. Original lab content is not included due to copyright restrictions. All analysis and documentation represents original work by the author.

@@ -27,4 +27,4 @@ Created a comprehensive IT asset inventory for the healthcare organization scena
 - ISO/IEC 27001:2022 — Annex A 5.9: Inventory of information and other associated assets
 - HIPAA Security Rule — Addressable implementation specification for hardware and software inventory
 
-> **Note:** Lab exercises were completed using JB Learning courseware. Original lab content is not included due to copyright restrictions. All analysis and documentation represents original work by the author.
+> **Note:** Lab exercises were completed using JB Learning courseware. Original lab content is not included due to copyright restrictions. All analysis and documentation represents original work by the author. 

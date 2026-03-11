@@ -12,7 +12,7 @@ Performed a formal risk assessment for the healthcare organization's information
 ## Tools Used
 - Risk matrix (5×5 likelihood/impact scale)
 - SimpleRisk (risk documentation and scoring)
-- NIST SP 800-30 threat and vulnerability catalogues
+- NIST SP 800-30 threat and vulnerability catalogues 
 
 ## Key Takeaways
 - Qualitative risk assessment enables rapid prioritization even without precise financial data

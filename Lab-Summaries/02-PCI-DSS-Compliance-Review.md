@@ -25,4 +25,4 @@ Conducted a compliance gap analysis against the Payment Card Industry Data Secur
 - NIST SP 800-30 Rev. 1 — Risk Assessment methodology
 - NIST CSF — Identify (ID.GV): Governance; Protect (PR.AC): Access Control
 
-> **Note:** Lab exercises were completed using JB Learning courseware. Original lab content is not included due to copyright restrictions. All analysis and documentation represents original work by the author.
+> **Note:** Lab exercises were completed using JB Learning courseware. Original lab content is not included due to copyright restrictions. All analysis and documentation represents original work by the author. 
